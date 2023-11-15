@@ -1,0 +1,63 @@
+#root {
+  
+  margin: auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.peli-div {
+  background-color: greenyellow;
+  min-width: 500px;
+  margin: auto;
+  border-radius: 10px;
+  padding: 1px;
+  border-style: solid;
+  border-color: darkgreen;
+  margin-bottom: 15px;
+  }
+  
+  .add-div {
+  background-color: greenyellow;
+  width: 20%;
+  margin: auto;
+  border-radius: 10px;
+  padding: 10px;
+  border-style: solid;
+  border-color: darkgreen;
+  margin-bottom: 5px;
+  }
+  
+  .poisto-btn {
+    margin-top: 2px;
+    border-radius: 5px;
+    padding: 5px;
+    min-width: 30px;
+    transform: translateX(550%);    
+  }
+  
+  .add-btn {
+    margin-bottom: 5px;
+    border-radius: 5px;
+    padding: 5px;
+  }
+  .genre-div {
+    background-color: rgb(255, 47, 47);
+    min-width: 600px;
+    margin: auto;
+    border-radius: 10px;
+    padding: 1px;
+    border-style: solid;
+    border-color: rgb(0, 10, 100);
+    margin-bottom: 15px;
+    }
+    .Laskuri-div {
+      background-color: rgb(255, 47, 186);
+      min-width: 300px;
+      margin: auto;
+      border-radius: 10px;
+      padding: 1px;
+      border-style: solid;
+      border-color: rgb(100, 0, 82);
+      margin-bottom: 15px;
+      }
