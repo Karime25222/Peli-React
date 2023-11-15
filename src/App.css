@@ -5,6 +5,17 @@
   text-align: center;
 }
 
+#laskuri-div {
+  background-color: greenyellow;
+  min-width: 500px;
+  margin: auto;
+  border-radius: 10px;
+  padding: 14px;
+  border-style: solid;
+  border-color: white;
+  margin-bottom: 15px;
+  }
+
 
 .peli-div {
   background-color: greenyellow;
