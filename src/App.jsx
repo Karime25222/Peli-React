@@ -15,6 +15,7 @@ function App() {
     <button onClick={() => setPage("genret")}>genret</button>
     <button onClick={() => setPage("pelit")}>pelit</button>
     <button onClick={() => setPage("Laskuri")}>Laskuri</button>
+    <button onClick={() => setPage("Sport")}>Laskuri</button>
    
     
 
@@ -23,6 +24,7 @@ function App() {
      {page ==="genret" && <GenretList />}
 
     {page === "Laskuri" && <Laskuri/>}
+
     
 
     </>

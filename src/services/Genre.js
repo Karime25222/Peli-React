@@ -1,6 +1,8 @@
 import axios from "axios"
 
-const baseUrl = "https://localhost:7134/api/Genret"
+//const baseUrl = "https://localhost:7134/api/Genret"
+const baseUrl = "https://pelibackend.azurewebsites.net/api/Genret"
+
 
 const getAll = ()=> {
 
